@@ -1,2 +1,17 @@
 node_modules/
 .env
+
+logs
+*.log
+
+.nuxt
+dist
+.output
+
+.temp
+
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+.vite/
+
+build/Release
